@@ -1,0 +1,17 @@
+*{
+    background-color: bisque;
+}
+
+.images{
+    border-radius: 5%;
+    max-height: 90vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.text{
+color: blueviolet;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
